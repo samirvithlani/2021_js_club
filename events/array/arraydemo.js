@@ -15,14 +15,6 @@ price.sort(function (a, b) {
 
 price.sort((a,b)=>a - b)
 console.log(price)
-
-
-
-
-
-
-
-
 console.log(lang)
 lang = lang.reverse();
 
@@ -41,8 +33,6 @@ function len_compare(a, b) {
 
 console.log("-->", names.sort())
 console.log("###", names.sort(len_compare))
-
-
 
 for (i = 0; i < lang.length; i++) {
 

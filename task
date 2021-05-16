@@ -1,0 +1,62 @@
+CRUD
+
+
+employee {
+	eid:
+
+}
+
+
+
+form  -->data  --> array
+
+
+ename
+eage
+salary
+
+
+
+form
+
+submit
+
+
+=====================
+
+display
+
+id    name    age    sal
+1     nn        20    256666    delete          age 
+
+
+delete 
+hint:splice
+
+
+birth date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
